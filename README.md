@@ -1,6 +1,6 @@
-Data is all around us, but it doesn't mean much without shape or context.
+React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications.
 
-In the Data Visualization Certification, you'll build charts, graphs, and maps to present different types of data with the D3.js library.
+React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application.
 
-You'll also learn about JSON (JavaScript Object Notation), and how to work with data online using an API (Application Programming Interface).
+In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more.
 

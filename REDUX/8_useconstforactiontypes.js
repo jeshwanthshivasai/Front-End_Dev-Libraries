@@ -37,13 +37,13 @@ const store = Redux.createStore(authReducer);
 
 const loginUser = () => {
   return {
-    type: 'LOGIN'
+    type: LOGIN
   }
 };
 
 const logoutUser = () => {
   return {
-    type: 'LOGOUT'
+    type: LOGOUT
   }
 };
 
